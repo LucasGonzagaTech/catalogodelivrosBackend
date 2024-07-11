@@ -36,7 +36,8 @@ Uma aplicação Node.js para criar um catálogo de livros utilizando a API Guten
 4. Configuração do Ambiente:
     Renomeie o arquivo .env.example para .env e configure as variáveis de ambiente, se necessário.
 
-   
+
+##Como testar
 ### Buscar e armazenar livros da Gutendex:
 
 1. Acesse http://localhost:3000/fetch-books para buscar e armazenar os livros na base de dados.
