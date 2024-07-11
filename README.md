@@ -25,18 +25,18 @@ Uma aplicação Node.js para criar um catálogo de livros utilizando a API Guten
 1. Clone o repositório:
    
      Copiar código-
-        - git clone https://github.com/LucasGonzagaTech/catalogodelivrosBackend
+        - *git clone https://github.com/LucasGonzagaTech/catalogodelivrosBackend*
    
-3. Instale as dependências:
+2. Instale as dependências:
 
    Copiar código-
-      - npm install
+      - *npm install*
 
-5. Configuração do Banco de Dados:
+3. Configuração do Banco de Dados:
 
    Certifique-se de que o MongoDB esteja em execução (mongod).
    
-7. Configuração do Ambiente:
+4. Configuração do Ambiente:
 
    Renomeie o arquivo .env.example para .env e configure as variáveis de ambiente, se necessário.
 
