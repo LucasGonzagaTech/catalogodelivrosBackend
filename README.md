@@ -3,9 +3,8 @@
 Uma aplicação Node.js para criar um catálogo de livros utilizando a API Gutendex e armazenar os dados em um banco de dados MongoDB.
 
 
-## Funcionalidades
-
-- Utilização de API externa
+## Funcionalidade
+- Captação e armazenamento de informações de livros por meio de uma API externa (Gutendex)
 
 
 ## Tecnologias Utilizadas
