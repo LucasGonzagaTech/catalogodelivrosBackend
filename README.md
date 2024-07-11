@@ -5,10 +5,7 @@ Uma aplicação Node.js para criar um catálogo de livros utilizando a API Guten
 
 ## Funcionalidades
 
-- Registro e autenticação de usuários
-- Criação, leitura, atualização e exclusão (CRUD) de tópicos e posts
-- Associação de posts a tópicos
-- Listagem de posts de um determinado tópico
+- Utilização de API externa
 
 
 ## Tecnologias Utilizadas
@@ -28,7 +25,7 @@ Uma aplicação Node.js para criar um catálogo de livros utilizando a API Guten
 ### Passos para Instalação
 1. Clone o repositório:
      Copiar código-
-      git clone https://github.com/seu-usuario/gutendex-catalog.git
+      git clone https://github.com/LucasGonzagaTech/catalogodelivrosBackend
    
 2. Instale as dependências:
     Copiar código-
